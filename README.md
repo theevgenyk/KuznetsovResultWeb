@@ -1,0 +1,2 @@
+# KuznetsovResultWeb
+Result of semester
