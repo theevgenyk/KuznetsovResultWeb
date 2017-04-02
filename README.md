@@ -1,2 +1,2 @@
-# KuznetsovResultWeb
-Result of semester
+# Timer
+
